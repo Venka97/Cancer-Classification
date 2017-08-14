@@ -1,1 +1,1 @@
-Cancer Detection
+In this project , I used a variety of machine learning algorithms (XGBoost, LightGBM, Random Forest) and evaluated their perfomance. Afterwards, I optimized the models's  hyperparameters to improve their perfomance.
